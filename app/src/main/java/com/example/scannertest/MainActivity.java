@@ -13,6 +13,7 @@ import com.google.zxing.client.android.CaptureActivity;
 public class MainActivity extends Activity {
 
 	public static final int SCAN_CODE = 1;
+	public  static final String TEST="test";
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
